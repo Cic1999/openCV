@@ -2,7 +2,7 @@
 
 import cv2 as cv
 import numpy as np
-# 4-9 Trackbar 若不要 可拉掉
+
 def abc(x):
     pass
 
